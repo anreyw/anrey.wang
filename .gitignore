@@ -1,1 +1,5 @@
+# emacs temporary files
+*~
+
+# macOS directory metadata
 .DS_Store

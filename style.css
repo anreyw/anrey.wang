@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 80vh;
     font-family: 'Arial', sans-serif;
 }
 
@@ -17,6 +17,6 @@ body {
 }
 
 p {
-    font-size: clamp(1.5rem, 10vw, 4rem);
+    font-size: clamp(1.5rem, 10vw, 3rem);
     margin: 0;
 }

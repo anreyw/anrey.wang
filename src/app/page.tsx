@@ -3,5 +3,5 @@ export default function Page() {
     <section>
       <h1>Anrey Wang</h1>
     </section>
-  )
+  );
 }

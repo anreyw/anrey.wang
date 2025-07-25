@@ -1,4 +1,6 @@
-export default function Page() {
+import { JSX } from 'react'
+
+export default function Page(): JSX.Element {
   return (
     <main className="flex justify-center items-center h-screen w-screen px-12">
       <h1 className="text-xl lg:text-3xl">

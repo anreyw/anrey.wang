@@ -1,1 +1,4 @@
 # files to ignore when using Prettier
+
+pnpm-lock.yaml
+pnpm-workspace.yaml

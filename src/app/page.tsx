@@ -2,8 +2,10 @@ import type { JSX } from "react";
 
 export default function Page(): JSX.Element {
   return (
-    <main className="flex flex-col justify-center items-center h-screen w-screen px-12 gap-2">
-      <p className="text-xl lg:text-3xl">Anrey Wang, a spirit ditty of no tone.</p>
+    <main className="flex h-screen w-screen flex-col items-center justify-center gap-2 px-12">
+      <p className="text-xl lg:text-3xl">
+        Anrey Wang enjoys deep conversations on long walks.
+      </p>
     </main>
   );
 }

@@ -9,7 +9,7 @@ export default function Page(): JSX.Element {
         alt="Anrey Wang"
         width={1024}
         height={1024}
-        className="max-w-md rounded-full"
+        className="w-xs max-w-4/5 rounded-full"
       />
       <p className="text-xl lg:text-3xl">
         Anrey Wang enjoys deep conversations and long walks (often at the same

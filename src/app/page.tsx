@@ -4,7 +4,10 @@ import type { JSX } from "react";
 export default function Page(): JSX.Element {
   return (
     <main className="flex h-screen w-screen flex-col items-center justify-center gap-12 px-12">
-      <div className="absolute inset-0 -z-10 flex items-center justify-center blur-3xl">
+      <div
+        aria-hidden="true"
+        className="absolute inset-0 -z-10 flex items-center justify-center blur-3xl"
+      >
         <div
           style={{ clipPath: "polygon(50% 0, 100% 100%, 0 100%)" }}
           className="h-3/4 w-3/4 bg-red-200"

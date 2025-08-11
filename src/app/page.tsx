@@ -9,7 +9,9 @@ export default function Page(): JSX.Element {
         className="absolute inset-0 -z-10 flex items-center justify-center blur-3xl"
       >
         <div
-          style={{ clipPath: "polygon(50% 0, 100% 100%, 0 100%)" }}
+          style={{
+            clipPath: "polygon(25% 15%, 50% 0, 100% 25%, 75% 80%, 0 100%)",
+          }}
           className="h-3/4 w-3/4 bg-red-200"
         />
       </div>

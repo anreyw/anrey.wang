@@ -22,10 +22,7 @@ export default function Page(): JSX.Element {
         height={1024}
         className="w-xs max-w-4/5 rounded-full"
       />
-      <p className="text-xl lg:text-3xl">
-        Anrey Wang enjoys deep conversations and long walks (often at the same
-        time).
-      </p>
+      <p className="text-xl text-gray-700 lg:text-3xl">Anrey Wang</p>
     </main>
   );
 }

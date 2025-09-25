@@ -16,6 +16,11 @@ const inter = localFont({
   variable: "--font-inter",
 });
 
+export const metadata: Metadata = {
+  title: "Anrey Wang",
+  description: "This is the personal homepage of Anrey Wang.",
+};
+
 export default function RootLayout({
   children,
 }: {

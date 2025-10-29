@@ -4,9 +4,15 @@ export default function Page(): JSX.Element {
   return (
     <div className="mt-48 flex justify-center px-12">
       <p className="text-4xl" lang="zh">
-        教外別傳        
+        教外別傳
         <br />
-	<ruby>不<rt>bú</rt></ruby>立文字
+        <ruby>
+          不<rt>bú</rt>
+        </ruby>
+        <ruby>
+          立<rt>lì</rt>
+        </ruby>
+        文字
         <br />
         直指人心
         <br />

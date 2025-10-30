@@ -12,7 +12,10 @@ export default function Page(): JSX.Element {
         <ruby>
           立<rt>lì</rt>
         </ruby>
-        文字
+        <ruby>
+          文<rt>wén</rt>
+        </ruby>
+        字
         <br />
         直指人心
         <br />

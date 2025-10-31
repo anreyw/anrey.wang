@@ -15,7 +15,9 @@ export default function Page(): JSX.Element {
         <ruby>
           文<rt>wén</rt>
         </ruby>
-        字
+        <ruby>
+          字<rt>zì</rt>
+        </ruby>
         <br />
         直指人心
         <br />

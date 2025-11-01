@@ -4,7 +4,10 @@ export default function Page(): JSX.Element {
   return (
     <div className="mt-48 flex justify-center px-12">
       <p className="text-4xl" lang="zh">
-        教外別傳
+        <ruby>
+          教<rt>jiào</rt>
+        </ruby>
+        外別傳
         <br />
         <ruby>
           不<rt>bú</rt>

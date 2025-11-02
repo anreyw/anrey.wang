@@ -7,7 +7,10 @@ export default function Page(): JSX.Element {
         <ruby>
           教<rt>jiào</rt>
         </ruby>
-        外別傳
+        <ruby>
+          外<rt>wài</rt>
+        </ruby>
+        別傳
         <br />
         <ruby>
           不<rt>bú</rt>

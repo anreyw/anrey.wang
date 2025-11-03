@@ -10,7 +10,10 @@ export default function Page(): JSX.Element {
         <ruby>
           外<rt>wài</rt>
         </ruby>
-        別傳
+        <ruby>
+          別<rt>bié</rt>
+        </ruby>
+        傳
         <br />
         <ruby>
           不<rt>bú</rt>

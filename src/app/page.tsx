@@ -13,7 +13,9 @@ export default function Page(): JSX.Element {
         <ruby>
           別<rt>bié</rt>
         </ruby>
-        傳
+        <ruby>
+          傳<rt>chuán</rt>
+        </ruby>
         <br />
         <ruby>
           不<rt>bú</rt>

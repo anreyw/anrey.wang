@@ -33,7 +33,10 @@ export default function Page(): JSX.Element {
         <ruby>
           直<rt>zhí</rt>
         </ruby>
-        指人心
+        <ruby>
+          指<rt>zhǐ</rt>
+        </ruby>
+        人心
         <br />
         見性成佛
       </p>

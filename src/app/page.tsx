@@ -36,7 +36,10 @@ export default function Page(): JSX.Element {
         <ruby>
           指<rt>zhǐ</rt>
         </ruby>
-        人心
+        <ruby>
+          人<rt>rén</rt>
+        </ruby>
+        心
         <br />
         見性成佛
       </p>

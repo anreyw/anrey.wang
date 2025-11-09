@@ -43,7 +43,10 @@ export default function Page(): JSX.Element {
           心<rt>xīn</rt>
         </ruby>
         <br />
-        見性成佛
+        <ruby>
+          見<rt>jiàn</rt>
+        </ruby>
+        性成佛
       </p>
     </div>
   );

@@ -52,7 +52,9 @@ export default function Page(): JSX.Element {
         <ruby>
           成<rt>chéng</rt>
         </ruby>
-        佛
+        <ruby>
+          佛<rt>fó</rt>
+        </ruby>
       </p>
     </div>
   );

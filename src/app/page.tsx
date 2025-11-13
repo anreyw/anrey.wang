@@ -2,7 +2,7 @@ import type { JSX } from "react";
 
 export default function Page(): JSX.Element {
   return (
-    <div className="mt-48 flex justify-center px-12">
+    <main className="mt-48 flex justify-center px-12">
       <p className="text-4xl" lang="zh">
         <ruby>
           教<rt>jiào</rt>
@@ -56,6 +56,6 @@ export default function Page(): JSX.Element {
           佛<rt>fó</rt>
         </ruby>
       </p>
-    </div>
+    </main>
   );
 }

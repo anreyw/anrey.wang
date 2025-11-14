@@ -5,7 +5,8 @@ export default function Page(): JSX.Element {
     <main className="mt-48 flex justify-center px-12">
       <p className="text-4xl" lang="zh">
         <ruby>
-          教<rt>jiào</rt>
+          <span title="teaching">教</span>
+          <rt>jiào</rt>
         </ruby>
         <ruby>
           外<rt>wài</rt>

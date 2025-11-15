@@ -9,7 +9,8 @@ export default function Page(): JSX.Element {
           <rt>jiào</rt>
         </ruby>
         <ruby>
-          外<rt>wài</rt>
+          <span title="outside">外</span>
+          <rt>wài</rt>
         </ruby>
         <ruby>
           別<rt>bié</rt>

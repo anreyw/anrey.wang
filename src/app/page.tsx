@@ -13,7 +13,8 @@ export default function Page(): JSX.Element {
           <rt>wài</rt>
         </ruby>
         <ruby>
-          別<rt>bié</rt>
+          <span title="separate">別</span>
+          <rt>bié</rt>
         </ruby>
         <ruby>
           傳<rt>chuán</rt>

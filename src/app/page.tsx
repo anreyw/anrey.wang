@@ -17,11 +17,13 @@ export default function Page(): JSX.Element {
           <rt>bié</rt>
         </ruby>
         <ruby>
-          傳<rt>chuán</rt>
+          <span title="transmission">傳</span>
+          <rt>chuán</rt>
         </ruby>
         <br />
         <ruby>
-          不<rt>bú</rt>
+          <span title="not">不</span>
+          <rt>bú</rt>
         </ruby>
         <ruby>
           立<rt>lì</rt>

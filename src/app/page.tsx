@@ -26,7 +26,8 @@ export default function Page(): JSX.Element {
           <rt>bú</rt>
         </ruby>
         <ruby>
-          立<rt>lì</rt>
+          <span title="establish">立</span>
+          <rt>lì</rt>
         </ruby>
         <ruby>
           文<rt>wén</rt>

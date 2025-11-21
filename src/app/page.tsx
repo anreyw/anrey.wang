@@ -30,7 +30,7 @@ export default function Page(): JSX.Element {
           <rt>lì</rt>
         </ruby>
         <ruby>
-          <span title="written language">文</span>
+          <span title="language">文</span>
           <rt>wén</rt>
         </ruby>
         <ruby>

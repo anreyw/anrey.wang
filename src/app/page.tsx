@@ -34,7 +34,8 @@ export default function Page(): JSX.Element {
           <rt>wén</rt>
         </ruby>
         <ruby>
-          字<rt>zì</rt>
+          <span title="text">字</span>
+          <rt>zì</rt>
         </ruby>
         <br />
         <ruby>

@@ -39,7 +39,8 @@ export default function Page(): JSX.Element {
         </ruby>
         <br />
         <ruby>
-          直<rt>zhí</rt>
+          <span title="directly">直</span>
+          <rt>zhí</rt>
         </ruby>
         <ruby>
           指<rt>zhǐ</rt>

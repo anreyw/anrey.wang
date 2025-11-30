@@ -43,7 +43,8 @@ export default function Page(): JSX.Element {
           <rt>zhí</rt>
         </ruby>
         <ruby>
-          指<rt>zhǐ</rt>
+          <span title="point at">指</span>
+          <rt>zhǐ</rt>
         </ruby>
         <ruby>
           人<rt>rén</rt>

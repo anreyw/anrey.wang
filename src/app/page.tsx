@@ -47,7 +47,8 @@ export default function Page(): JSX.Element {
           <rt>zhǐ</rt>
         </ruby>
         <ruby>
-          人<rt>rén</rt>
+          <span title="human">人</span>
+          <rt>rén</rt>
         </ruby>
         <ruby>
           心<rt>xīn</rt>

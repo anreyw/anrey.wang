@@ -51,7 +51,8 @@ export default function Page(): JSX.Element {
           <rt>rén</rt>
         </ruby>
         <ruby>
-          心<rt>xīn</rt>
+          <span title="mind">心</span>
+          <rt>xīn</rt>
         </ruby>
         <br />
         <ruby>

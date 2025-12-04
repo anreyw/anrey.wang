@@ -56,11 +56,12 @@ export default function Page(): JSX.Element {
         </ruby>
         <br />
         <ruby>
-          <span title="see">見</span>
+          <span title="see / realize">見</span>
           <rt>jiàn</rt>
         </ruby>
         <ruby>
-          性<rt>xìng</rt>
+          <span title="(true) nature">性</span>
+          <rt>xìng</rt>
         </ruby>
         <ruby>
           成<rt>chéng</rt>

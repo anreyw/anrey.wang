@@ -64,7 +64,8 @@ export default function Page(): JSX.Element {
           <rt>xìng</rt>
         </ruby>
         <ruby>
-          成<rt>chéng</rt>
+          <span title="become / attain">成</span>
+          <rt>chéng</rt>
         </ruby>
         <ruby>
           佛<rt>fó</rt>

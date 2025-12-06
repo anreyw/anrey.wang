@@ -68,7 +68,8 @@ export default function Page(): JSX.Element {
           <rt>chéng</rt>
         </ruby>
         <ruby>
-          佛<rt>fó</rt>
+          <span title="Buddha">佛</span>
+          <rt>fó</rt>
         </ruby>
       </p>
     </main>

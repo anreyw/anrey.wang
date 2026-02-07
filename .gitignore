@@ -88,3 +88,6 @@ flycheck_*.el
 
 # network security
 /network-security.data
+
+# Eleventy output files
+_site

@@ -1,7 +1,7 @@
 # Anrey Wang's Personal Webpage
 
-This is the source for my own homepage on the World Wide Web! See it here: 
+This is the source for my own homepage on the World Wide Web! Cool beans.
 
-<https://anrey.wang>
+See it here: <https://anrey.wang>
 
 

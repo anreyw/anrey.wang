@@ -7,5 +7,4 @@ See it here: <https://anrey.wang>
 ## Tech Stack
 
 - **Static Site Generator:** [Eleventy (11ty)](https://www.11ty.dev/)
-- **Styling:** [TailwindCSS](https://tailwindcss.com/)
 

@@ -4,4 +4,4 @@ This repo is the source for Anrey Wang's personal homepage.
 
 Live website: <https://anrey.wang>
 
-Next step: add TailwindCSS.
+Next step: follow step 2 of <https://tailwindcss.com/docs/installation/tailwind-cli>

@@ -10,3 +10,6 @@ _site
 
 # misc
 .DS_Store
+
+# claude
+.claude/

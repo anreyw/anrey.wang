@@ -1,5 +1,6 @@
 {
   "name": "anrey.wang",
+  "type": "module",
   "version": "1.0.0",
   "description": "Anrey Wang's Personal Webpage",
   "main": "index.js",

@@ -161,6 +161,12 @@
   }
 }
 @layer utilities {
+  .flex {
+    display: flex;
+  }
+  .justify-center {
+    justify-content: center;
+  }
   .text-3xl {
     font-size: var(--text-3xl);
     line-height: var(--tw-leading, var(--text-3xl--line-height));

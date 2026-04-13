@@ -1,8 +1,8 @@
-# dependencies
+# node
 /node_modules
-
-# builds
-_site
+package.json
+pnpm-lock.yaml
+pnpm-workspace.yaml
 
 # emacs
 *~
@@ -10,6 +10,3 @@ _site
 
 # misc
 .DS_Store
-
-# claude
-.claude/

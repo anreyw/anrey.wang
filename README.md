@@ -1,1 +1,1 @@
-The source for Anrey Wang's personal homepage. HTML only.
+The source for Anrey Wang's personal homepage.
